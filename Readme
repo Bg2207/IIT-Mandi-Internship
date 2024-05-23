@@ -1,0 +1,1 @@
+This repository implements a Convolutional Neural Network (CNN) model for predicting the likelihood of COVID-19/Pneumonia infection based on  chest X-ray images. The model leverages the power of TensorFlow and Keras for efficient training and inference.
